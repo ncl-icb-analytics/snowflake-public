@@ -2,9 +2,16 @@
 
 North Central London ICB is an NHS commissioning organisation. This repo holds scripts and documentation about our Snowflake implementation. This repo is public.
 
-## Snowflake Object Naming Conventions
+## Documentation
 
-See this Wiki article: https://github.com/ncl-icb-analytics/snowflake-public/wiki/NCL-Snowflake-naming-conventions
+This repository serves as a central hub for our Snowflake documentation. The Wiki contains guidance on:
+
+- Snowflake database standards and naming conventions
+- Code review and quality assurance processes
+- Technical reference documentation
+- Best practices for Snowflake development
+
+Visit the Wiki: https://github.com/ncl-icb-analytics/snowflake-user-guide/wiki
 
 ### License
 
